@@ -31,7 +31,10 @@ const App: () => React$Node = () => {
       <SafeAreaView>
           <View style={unichal.container}>
             <Text>container</Text>
-          </View>        
+          </View>
+          <View>
+            <Text>test</Text>
+            </View>        
       </SafeAreaView>
     </>
   );
